@@ -1,2 +1,2 @@
 # Manteniment de productes
-Manteniment de productes amb Laravel i vue.js
+Aplicació web feta amb Laravel i vue.js
